@@ -1,5 +1,5 @@
 =======
-cy_rand
+Cy_rand
 =======
 
 *This is still under heavy development.*
@@ -33,5 +33,5 @@ To build them, change to the cyrand/example directory and build in place:
 
     python setup.py build_ext --inplace
 
-Then run test_example.py and/or test_example_seed.py to try them out. You may
-need to change the include_dirs to point to your installation of Boost.
+Then run test_example.py and/or test_example_seed.py to try them out. 
+You may need to change the include_dirs to point to your installation of Boost.
